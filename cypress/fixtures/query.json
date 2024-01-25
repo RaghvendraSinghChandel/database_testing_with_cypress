@@ -1,0 +1,4 @@
+{
+  "fetchedColumnFromSaleTable": "SHOW COLUMNS FROM sales",
+  "fetchedRowCountFromTable": "SELECT COUNT(*) AS rowCount FROM sales;"
+}
