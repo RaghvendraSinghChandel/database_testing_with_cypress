@@ -4,7 +4,6 @@ import { getFeildData } from "../support/queryCommand/utils"
 import { getFieldsAttribute } from "../support/queryCommand/utils"
 
 describe("test column from sales database",()=> {
-
   /**
    * Verify column length equal to 11 in sale table
    */
